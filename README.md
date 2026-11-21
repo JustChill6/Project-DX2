@@ -23,6 +23,6 @@ While previous community attempts stalled at experimental bootloader notes requi
 ## How to Use
 1. Download and extract the entire `MOD` folder into your Windows **Downloads** folder.
 2. Make sure the **Master Power Switch** on the back of your VTech DX2 is switched **ON**, then plug the watch into your PC via a **Micro-USB data cable**.
-3. Double-click **`vtech_MAXIMIZE.bat`**, press **`1`** to install the full mod, and wait for the **`Download Finished!`** pop-up before unplugging!
+3. Double-click **`vtech_MAXIMIZE.exe`**, press **`1`** to install the full mod, and wait for the **`Download Finished!`** pop-up before unplugging!
 
 ---
