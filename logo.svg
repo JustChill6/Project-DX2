@@ -1,0 +1,15 @@
+<svg xmlns="http://w3.org" viewBox="0 0 650 130" width="650" height="130">
+  <defs>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF59D"/>
+      <stop offset="100%" stop-color="#FFA000"/>
+    </linearGradient>
+    <linearGradient id="blueGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#B3E5FC"/>
+      <stop offset="100%" stop-color="#29B6F6"/>
+    </linearGradient>
+  </defs>
+  <text x="50%" y="95" text-anchor="middle" font-family="'Arial Rounded MT Bold', 'Nunito', 'Quicksand', sans-serif" font-weight="900" font-size="82" stroke="#003B73" stroke-width="14" stroke-linejoin="round" paint-order="stroke">
+    <tspan fill="url(#goldGrad)">Project-</tspan><tspan fill="url(#blueGrad)">DX2</tspan>
+  </text>
+</svg>
