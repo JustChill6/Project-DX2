@@ -1,8 +1,9 @@
 <p align="center">
   <img src="logobanner.png" alt="vtech MAXIMIZE Logo" width="480" height="240">
 </p>
-# vtech MAXIMIZE — VTech KidiZoom Smartwatch DX2 (`1938C`) Mod & Control Center
-(Created by JustChill6)
+
+# VTech MAXIMIZE — VTech KidiZoom Smartwatch DX2 (`1938C`) Mod & Control Center
+**(Created by JustChill6)**
 
 **vtech MAXIMIZE** is the **first ready-to-use, plug-and-play mod and management suite on planet Earth** built for the **VTech KidiZoom Smartwatch DX2** — including newer, heavily locked UK/EU `1938C` (`54-193800-A03-000-S00`) units where on-device factory test menus and early v1.0 firmware exploits are completely blocked.
 
