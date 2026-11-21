@@ -14,7 +14,6 @@ While previous community attempts stalled at experimental bootloader notes requi
 ## Key Features
 * **1-Click Custom Gallery Logo Installer:** Automatically detects your watch's `DCIM\<NNN>VTECH` directory prefix, renames your mod image to match (`<NNN>_0001.JPG`), and converts it to a native **`240×240` Baseline JPEG** — completely eliminating the watch's dreaded `File Error` screen.
 * **Automatic Photo Clock Face (`PCF_0001.BIN`) Injection:** Automatically installs pre-configured Photo Clock Face binaries directly into `VTE_DATA\LL_SAVE\54-193800-A03-000-S00\` so your custom watch face persists across reboots.
-* **Built-In Battery & Storage Manager:** Checks exact flash storage usage, flushes power-wasting `TMP_SAVE` session caches, and unlocks hidden media directories (`DOWNLOAD`, `VOICE`, `LL\APPS`).
 * **Full Watch Backup & Restore:** Creates complete backups of your `DCIM`, `VOICE`, and `VTE_DATA` save partitions in seconds and restores them anytime.
 * **Live `[DEVLOG]` & Native Windows GUI Pop-Ups:** Tracks every step in real time and alerts you with native `Download Finished!` or `Download Failed, Check DevLog.` dialogs.
 
