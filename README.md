@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="logobanner.png" alt="vtech MAXIMIZE Logo" width="480" height="240">
+  <img src="./logo.svg" alt="Project-DX2 Logo" />
 </p>
+
 
 # VTech MAXIMIZE — VTech KidiZoom Smartwatch DX2 (`1938C`) Mod & Control Center
 **(Created by JustChill6)**
