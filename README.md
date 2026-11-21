@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logobanner.png" alt="vtech MAXIMIZE Logo" width="240" height="240">
+  <img src="logobanner.png" alt="vtech MAXIMIZE Logo" width="480" height="240">
 </p>
 # vtech MAXIMIZE — VTech KidiZoom Smartwatch DX2 (`1938C`) Mod & Control Center
 (Created by JustChill6)
@@ -25,7 +25,3 @@ While previous community attempts stalled at experimental bootloader notes requi
 3. Double-click **`vtech_MAXIMIZE.bat`**, press **`1`** to install the full mod, and wait for the **`Download Finished!`** pop-up before unplugging!
 
 ---
-
-## Hardware & Firmware Research
-* **[VTech KidiZoom DX2 Hardware & USB Research (`vtech-dx2.md`)](vtech-dx2.md)** — Model `1938C` (`54-193800-A03-000-S00`) dual-LUN USB descriptors (`Kidizoom 2.10` + `VT SYSTEM 3.00`), `VTKiDi` (`.KPA`) package structure, and `VTE_DATA` layout.
-* **[Victure M3 Hardware & Boot ROM Research](https://github.com)** — Actions `ATJ2127` MIPS SoC identification, `CADFUD` ADFU bootloader mode, and raw `64 KB` Boot ROM dump.
