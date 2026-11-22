@@ -7,7 +7,7 @@
 
 **VTech MOD Station** is the **first ready-to-use, plug-and-play mod and management suite on planet Earth** built for the **VTech KidiZoom Smartwatch DX2** — including newer, heavily locked UK/EU `1938C` (`54-193800-A03-000-S00`) units where on-device factory test menus and early v1.0 firmware exploits are completely blocked.
 
-While previous community attempts stalled at experimental bootloader notes requiring early v1.0 hardware or disassembly, **vtech MAXIMIZE** works cleanly over standard Micro-USB with zero brick risk.
+While previous community attempts stalled at experimental bootloader notes requiring early v1.0 hardware or disassembly, **VTech MOD Station** works cleanly over standard Micro-USB with zero brick risk.
 
 ---
 
