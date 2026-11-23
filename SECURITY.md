@@ -25,4 +25,4 @@ Only the latest release of **Project-DX2 (VTech MOD Station)** is actively maint
 
 If you discover a security vulnerability, data-corruption bug, or unintended file-handling behavior in this repository:
 
-Contact The Email In The Description ASAP
+Contact projectdx2.help@atomicmail.io ASAP
