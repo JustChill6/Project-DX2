@@ -1,1 +1,0 @@
-**Disclaimer:** VTech MAXIMIZE **And** VTech MOD Station is an independent, fan-made utility and is not affiliated with, endorsed by, or sponsored by VTech Holdings Limited. "VTech" and "KidiZoom" are trademarks of VTech Holdings Limited. This repository contains only original code and user-created assets; no proprietary VTech firmware or software is distributed here.
