@@ -48,7 +48,7 @@ M0D V6/
 ## 🚀 Quick Start
 
 1. **Download or Build:**
-  - Download the latest release (`Version 6 (Fornax)`) from the [Releases](https://github.com/JustChill6/Project-DX2/releases/latest) page and extract it anywhere on your Windows PC (or run `M0D_V6_MAX.bat` to self-compile the `M0D V6` folder from source).
+  - Download the latest release (`Version 6 (Fornax)`) from the [Releases](https://github.com/JustChill6/Project-DX2/releases/latest) page and extract it anywhere on your Windows PC.
 2. **Connect Your Watch:**
   - Slide the **Master Power Switch** on the back of your VTech KidiZoom DX2 to **ON**.
   - Connect the watch to your PC using a **Micro-USB data cable** (charge-only cables will not mount storage).
